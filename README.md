@@ -1,4 +1,4 @@
-## Write2Earn Contracts
+## WriteOn Contracts
 
 ```
 Blog Token
